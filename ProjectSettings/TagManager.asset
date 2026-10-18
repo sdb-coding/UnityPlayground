@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - CardHolders
+  - Cards
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnBoardGraphics
+    uniqueID: 1218928685
+    locked: 0
+  - name: OnBoardUI
+    uniqueID: 1579983855
+    locked: 0
+  - name: CardsInPlay
+    uniqueID: 640341389
+    locked: 0
+  - name: Hand
+    uniqueID: 3320807267
+    locked: 0
+  - name: Overlay
+    uniqueID: 2766298805
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

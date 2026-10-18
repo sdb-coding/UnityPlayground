@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9be83d48b86a96745b3a61ccf489b1e6, type: 3}
+  m_Name: TooltipTermsData
+  m_EditorClassIdentifier: Assembly-CSharp::TooltipTermsData
+  allTerms:
+  - {fileID: 7347601505680439805}
+  - {fileID: 6946366094355752176}
+--- !u!114 &6946366094355752176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2187a082f2baa946a2e790162c5981d, type: 3}
+  m_Name: Term_common
+  m_EditorClassIdentifier: Assembly-CSharp::ToolTipTerm
+  termID: common
+  defaultDisplayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb1825ec4e7a64141a5af4e2f330b043
+    m_TableEntryReference:
+      m_KeyId: 1458832483983360
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  highlightColor: {r: 1, g: 1, b: 1, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  tooltipHeader:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb1825ec4e7a64141a5af4e2f330b043
+    m_TableEntryReference:
+      m_KeyId: 1458832483983360
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  tooltipBody:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb1825ec4e7a64141a5af4e2f330b043
+    m_TableEntryReference:
+      m_KeyId: 6115201489215488
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &7347601505680439805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2187a082f2baa946a2e790162c5981d, type: 3}
+  m_Name: Term_england
+  m_EditorClassIdentifier: Assembly-CSharp::ToolTipTerm
+  termID: england
+  defaultDisplayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb1825ec4e7a64141a5af4e2f330b043
+    m_TableEntryReference:
+      m_KeyId: 226823675904
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  highlightColor: {r: 1, g: 0.8431373, b: 0, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  tooltipHeader:
+    m_TableReference:
+      m_TableCollectionName: GUID:bb1825ec4e7a64141a5af4e2f330b043
+    m_TableEntryReference:
+      m_KeyId: 226823675904
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  tooltipBody:
+    m_TableReference:
+      m_TableCollectionName: GUID:9be643d8bb9a7f748b257d506f238b7c
+    m_TableEntryReference:
+      m_KeyId: 4384594295955456
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

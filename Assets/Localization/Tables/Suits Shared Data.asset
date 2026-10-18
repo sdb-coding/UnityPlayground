@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Suits Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Suits
+  m_TableCollectionNameGuidString: 3ed4312ef4d7dd9458f23ba102613fcb
+  m_Entries:
+  - m_Id: 6601744384
+    m_Key: Clubs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36758790144
+    m_Key: Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49282981888
+    m_Key: Hearts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64927735808
+    m_Key: Spade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104681349120
+    m_Key: Servus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130300157952
+    m_Key: Karus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145198325760
+    m_Key: Videra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189565673472
+    m_Key: Sonavi
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5581505121812480084
+  references:
+    version: 2
+    RefIds:
+    - rid: 5581505121812480084
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1789560428316

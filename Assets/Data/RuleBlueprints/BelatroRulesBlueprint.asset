@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2c0d54d6c1e16a49847dd77377e5b35, type: 3}
+  m_Name: BelatroRulesBlueprint
+  m_EditorClassIdentifier: Assembly-CSharp::RulesBlueprint
+  defaultrequiredCardsForFlush: 5
+  defaultrequiredCardsForStraight: 5
+  defaultrequiredCardsForMatches: 1
+  defaultMaxNumberOfCardsInHand: 7
+  defaultMaxNumberOfJokers: 5
+  defaultMaxNumberOfdrawsAllowed: 3
+  defaultNumberOfRounds: 3
+  defaultCanAddToExistingPots: 0
+  defaultNumberOfCardsInStore: 3
+  defaultBuyingAllowUniques: 0
+  automaticallyDrawCardsOnNewRound: 1
+  automaticallyScoreAndClearPots: 1
+  automaticallyDrawWhenDiscarding: 1
+  allowDiscardingOfCardsWhenNoDrawsAvailable: 0
+  allowNonScoringCardsInPot: 1
+  <ID>k__BackingField: RulesBlueprint_BelatroRulesBlueprint

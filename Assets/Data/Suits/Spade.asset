@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6098e5724039f4280c60da2de5c79e, type: 3}
+  m_Name: Spade
+  m_EditorClassIdentifier: Assembly-CSharp::Suit
+  <ID>k__BackingField: Suit_Spade_S_7
+  suitName:
+    m_TableReference:
+      m_TableCollectionName: GUID:3ed4312ef4d7dd9458f23ba102613fcb
+    m_TableEntryReference:
+      m_KeyId: 64927735808
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  suitPriority: 7
+  suitLetter: S
+  references:
+    version: 2
+    RefIds: []

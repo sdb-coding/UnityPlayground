@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ed23cb7eb474c44b84242fde37b355f, type: 3}
+  m_Name: SceneDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SceneDatabase
+  scenes:
+  - sceneId: 1e094d93-60ef-4a06-9060-0ffd55d6e491
+    scenePath: Assets/Scenes/BootstrapScene.unity
+    sceneAsset: {fileID: 102900000, guid: fb32c381fe0162a45ba86a51c10d0123, type: 3}
+  - sceneId: b2fedcd0-f83f-45ad-928d-ea08fd8101b3
+    scenePath: Assets/Scenes/Belatro.unity
+    sceneAsset: {fileID: 102900000, guid: c4e559378387450449c1d6eb76723d0f, type: 3}
+  - sceneId: cad3e727-3981-47f9-800e-ecf533c65fbc
+    scenePath: Assets/Scenes/MainMenu.unity
+    sceneAsset: {fileID: 102900000, guid: 87dd8cee306109f4bb8c3132b9de4258, type: 3}

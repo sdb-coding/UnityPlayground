@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b32a8f2f06b3544ca03c024ec65d236, type: 3}
+  m_Name: BelatroScoreBlueprint
+  m_EditorClassIdentifier: Assembly-CSharp::ScoreBlueprint
+  scoreSettings:
+    scoreCompinations:
+    - scoreType: 1
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 5
+          levelIncrease: 10
+        mulScoreLevel:
+          score: 1
+          levelIncrease: 1
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 2
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 10
+          levelIncrease: 15
+        mulScoreLevel:
+          score: 2
+          levelIncrease: 1
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 3
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 20
+          levelIncrease: 20
+        mulScoreLevel:
+          score: 2
+          levelIncrease: 1
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 4
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 30
+          levelIncrease: 20
+        mulScoreLevel:
+          score: 3
+          levelIncrease: 2
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 5
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 60
+          levelIncrease: 30
+        mulScoreLevel:
+          score: 7
+          levelIncrease: 3
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 6
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 120
+          levelIncrease: 35
+        mulScoreLevel:
+          score: 12
+          levelIncrease: 3
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 7
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 40
+          levelIncrease: 25
+        mulScoreLevel:
+          score: 4
+          levelIncrease: 2
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 8
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 30
+          levelIncrease: 30
+        mulScoreLevel:
+          score: 4
+          levelIncrease: 3
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 9
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 35
+          levelIncrease: 15
+        mulScoreLevel:
+          score: 4
+          levelIncrease: 2
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 10
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 100
+          levelIncrease: 40
+        mulScoreLevel:
+          score: 8
+          levelIncrease: 4
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 11
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 100
+          levelIncrease: 40
+        mulScoreLevel:
+          score: 8
+          levelIncrease: 4
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 12
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 140
+          levelIncrease: 40
+        mulScoreLevel:
+          score: 14
+          levelIncrease: 4
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    - scoreType: 13
+      scoreValues:
+        currentLevel: 0
+        chipScoreLevel:
+          score: 160
+          levelIncrease: 50
+        mulScoreLevel:
+          score: 16
+          levelIncrease: 3
+        cardMulScoreLevel:
+          score: 0
+          levelIncrease: 0
+    cardScores: 0b00000002000000030000000400000005000000060000000700000008000000090000000a0000000a0000000a0000000a000000

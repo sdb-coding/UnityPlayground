@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Terms Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Terms
+  m_TableCollectionNameGuidString: bb1825ec4e7a64141a5af4e2f330b043
+  m_Entries:
+  - m_Id: 226823675904
+    m_Key: term_england
+    m_Metadata:
+      m_Items:
+      - rid: 5581505352544551003
+  - m_Id: 1458832483983360
+    m_Key: "term_common\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458881460871168
+    m_Key: term_uncommon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458916974043136
+    m_Key: term_rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458950897573888
+    m_Key: term_epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458994753216512
+    m_Key: term_legendary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459018216153088
+    m_Key: term_mythic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6115201489215488
+    m_Key: description_common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6123113997574144
+    m_Key: header_common
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5581505352544550912
+  references:
+    version: 2
+    RefIds:
+    - rid: 5581505352544550912
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1790424727794
+    - rid: 5581505352544551003
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Smart = True

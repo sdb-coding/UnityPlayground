@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b163411ca1f51ae41829c7eda3c73559, type: 3}
+  m_Name: 10StraightMul
+  m_EditorClassIdentifier: Assembly-CSharp::JokerBlueprint
+  <ID>k__BackingField: Joker_Proper Balance
+  jokerName:
+    m_TableReference:
+      m_TableCollectionName: GUID:9be643d8bb9a7f748b257d506f238b7c
+    m_TableEntryReference:
+      m_KeyId: 771861046534144
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  jokerDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:9be643d8bb9a7f748b257d506f238b7c
+    m_TableEntryReference:
+      m_KeyId: 5918309404811264
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  showJokerTitle: 1
+  jokerGraphics: {fileID: 21300000, guid: 556666ec55ac52e4e99b76c09061643f, type: 3}
+  cardType: {fileID: 11400000, guid: e2560a7642aebc244acb60b3dbec131e, type: 2}
+  startingBuyPrice: 1
+  startingSellPrice: 1
+  rarity: 1
+  ruleEvents:
+  - rid: 5581505127315931142
+  eventValues: 0a000000
+  ruleStates: []
+  stateValues: 
+  references:
+    version: 2
+    RefIds:
+    - rid: 5581505127315931142
+      type: {class: RuleEventAddStraightMult, ns: , asm: Assembly-CSharp}
+      data: 

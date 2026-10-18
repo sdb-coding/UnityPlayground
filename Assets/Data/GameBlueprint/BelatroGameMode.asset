@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2842255cfd344244fa307a4c0a0ec8f5, type: 3}
+  m_Name: BelatroGameMode
+  m_EditorClassIdentifier: Assembly-CSharp::GameBlueprint
+  <ID>k__BackingField: GameBlueprint_DefaultBelatro
+  gameBlueprintName: DefaultBelatro
+  scoreBlueprint: {fileID: 11400000, guid: 2b1bf9d4326e7c249a394019bd7e72bb, type: 2}
+  anteScoreBlueprint: {fileID: 11400000, guid: f4f50c2c60792024c85f580514883340, type: 2}
+  rulesBlueprint: {fileID: 11400000, guid: 617d89a4eb69f6542adca62660b74241, type: 2}
+  storeBlueprint: {fileID: 11400000, guid: 4bda70eecb18fc84aa59ba268ab0e967, type: 2}
+  inventoryBlueprint: {fileID: 11400000, guid: 5b3cf3707162a694d867f13b97e70542, type: 2}
+  cardCollection: {fileID: 11400000, guid: 0861abb195b7f6244a071bbd2079de53, type: 2}

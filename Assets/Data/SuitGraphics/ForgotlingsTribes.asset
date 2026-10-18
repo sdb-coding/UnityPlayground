@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8db1abe18caa1841a80786026325815, type: 3}
+  m_Name: ForgotlingsTribes
+  m_EditorClassIdentifier: Assembly-CSharp::SuitGraphics
+  Name: French
+  suitGraphics:
+  - suit: {fileID: 11400000, guid: fbc9819efde757449a4504a13cbcdb31, type: 2}
+    suitColor: {r: 0, g: 0.2097776, b: 1, a: 1}
+    sprite: {fileID: 21300000, guid: 9ae16010abbd42a41af83e1366c5b819, type: 3}
+    rankOverlaySprites:
+    - rank: 11
+      graphics: {fileID: 21300000, guid: a4a4ed8c6dc9446479ae75b547793fe6, type: 3}
+    - rank: 12
+      graphics: {fileID: 21300000, guid: 2be1e1a32c2ffb144b890594c6fde36b, type: 3}
+    - rank: 13
+      graphics: {fileID: 21300000, guid: 99b5b3afd408cb245b879a9c1382f523, type: 3}
+    suitName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3ed4312ef4d7dd9458f23ba102613fcb
+      m_TableEntryReference:
+        m_KeyId: 145198325760
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - suit: {fileID: 11400000, guid: 7e83aff0dce00824fbcaf8dac7aee7a6, type: 2}
+    suitColor: {r: 0.116711974, g: 1, b: 0, a: 1}
+    sprite: {fileID: 21300000, guid: 03a767ed2908389418f3aa172737c5c5, type: 3}
+    rankOverlaySprites:
+    - rank: 11
+      graphics: {fileID: 21300000, guid: 9539bb7dc0f44374da67c874cb2cbfde, type: 3}
+    - rank: 12
+      graphics: {fileID: 21300000, guid: 827d14a37593554478f842614ad46a9a, type: 3}
+    - rank: 13
+      graphics: {fileID: 21300000, guid: c9cbc9dfa58e01b48bc4884cacf78088, type: 3}
+    suitName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3ed4312ef4d7dd9458f23ba102613fcb
+      m_TableEntryReference:
+        m_KeyId: 189565673472
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - suit: {fileID: 11400000, guid: bc06c3f05af9e294fb0284b186d72bda, type: 2}
+    suitColor: {r: 1, g: 0.8741453, b: 0, a: 1}
+    sprite: {fileID: 21300000, guid: ac1cab3292f672b4d9fb53401ca4e583, type: 3}
+    rankOverlaySprites:
+    - rank: 11
+      graphics: {fileID: 21300000, guid: 3329363445757ab4ba17f2de30a9f31e, type: 3}
+    - rank: 12
+      graphics: {fileID: 21300000, guid: 24816bb90f5465e45a102b120f0c4654, type: 3}
+    - rank: 13
+      graphics: {fileID: 21300000, guid: 639fab2fbe9e5004d875ccd87c0bcdf0, type: 3}
+    suitName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3ed4312ef4d7dd9458f23ba102613fcb
+      m_TableEntryReference:
+        m_KeyId: 104681349120
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - suit: {fileID: 11400000, guid: 97c708096dd62ee428ff51b9a3852f7c, type: 2}
+    suitColor: {r: 1, g: 0, b: 0, a: 1}
+    sprite: {fileID: 21300000, guid: 258eeda9153bd504f960845d1a7c4cac, type: 3}
+    rankOverlaySprites:
+    - rank: 11
+      graphics: {fileID: 21300000, guid: 5fc1153f2dcc9294999aefc2e409e661, type: 3}
+    - rank: 12
+      graphics: {fileID: 21300000, guid: cab0591522ab16e44ba6eee27e4f3bdd, type: 3}
+    - rank: 13
+      graphics: {fileID: 21300000, guid: ba5d9adf4f770e94c85467dca8a3189a, type: 3}
+    suitName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3ed4312ef4d7dd9458f23ba102613fcb
+      m_TableEntryReference:
+        m_KeyId: 130300157952
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  backGraphics: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

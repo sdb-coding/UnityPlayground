@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CardNames_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9be643d8bb9a7f748b257d506f238b7c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13691101552640
+    m_Localized: Fully Flushed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4384594295955456
+    m_Localized: '"The [term:england|poss] throne belongs to the [term:england|adj]
+      realm."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5108123823939584
+    m_Localized: PlayingCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5108207370280960
+    m_Localized: Just a default playing card, nothing to see here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5918309404811264
+    m_Localized: A joker, it spices up the game and makes people weird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771861046534144
+    m_Localized: Proper Balance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772513009147904
+    m_Localized: Just Bacon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
